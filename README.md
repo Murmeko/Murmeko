@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yiğit Erdinç</h1>
-<h3 align="center">An iOS Developer from Turkey</h3>
+<h3 align="center">An iOS Developer from Istanbul❤️</h3>
 
 <p align="center">
   <a href="mailto:yigiterdinc@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-yigiterdinc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yigiterdinc@gmail.com"/> </a>
@@ -9,7 +9,7 @@
 </p>
 
 <br>
-Hello, I'm Yiğit Erdinç, a freelance iOS Developer and a college student. I'm studying BSc. of Computer Engineering at Kocaeli University, and I have about a year and a half of native iOS application development and design experience. I like wandering, gaming and listening to music on my freetimes. Also I'm a petrolhead.
+Hello, I'm Yiğit, a freelance iOS Developer🧑🏻‍💻&nbsp; and a college student👨🏻‍🎓.&nbsp; Currently I'm studying BSc. of Computer Engineering🖥️&nbsp; at Kocaeli University, and I have about a year and a half of native iOS application📱&nbsp; development and design experience. I like wandering🚶🏻‍♂️,&nbsp;  gaming🎮&nbsp;  and listening to music🎧&nbsp;  on my freetimes. Also I'm a 🚗 petrolhead.
 <br>
 <br>
 <br>
