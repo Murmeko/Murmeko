@@ -2,27 +2,28 @@
 <h3 align="center">An iOS Developer from Istanbul❤️</h3>
 
 <p align="center">
-  <a href="mailto:yigiterdinc@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-yigiterdinc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yigiterdinc@gmail.com"/> </a>
   <a href="https://www.linkedin.com/in/yigiterdinc" target="_blank"> <img src="https://img.shields.io/badge/-yigiterdinc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yigiterdinc/"/> </a>
+  <a href="mailto:yigiterdinc@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-yigiterdinc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yigiterdinc@gmail.com"/> </a>
   <a href="https://medium.com/@yigiterdinc" target="_blank"> <img src="https://img.shields.io/badge/-yigiterdinc-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yigiterdinc"/> </a>
   <a href="https://dev.to/murmeko" target="_blank"> <img src="https://img.shields.io/badge/DEV-murmeko-000000?style=flat-square&link=https://dev.to/murmeko"/> </a>
 </p>
 
 <br>
-Hello, I'm Yiğit, an iOS Developer🧑🏻‍💻&nbsp that currently works at Donanım Haber, and a college student👨🏻‍🎓.&nbsp; Currently, I'm studying BSc. of Computer Engineering🖥️&nbsp; at Kocaeli University, and I have about a year and a half of native iOS application📱&nbsp; development and design experience. I like wandering🚶🏻‍♂️,&nbsp;  gaming🎮&nbsp;  and listening to music🎧&nbsp;  on my freetimes. And also I'm a 🚗 petrolhead.
+Hello, I'm Yiğit, an iOS Developer&nbsp🧑🏻‍💻&nbsp that currently works at DonanımHaber.com, and a college student&nbsp👨🏻‍🎓.&nbsp; Currently, I'm studying BSc. of Computer Engineering&nbsp🖥️&nbsp; at Kocaeli University, and I have about a year of native iOS application📱&nbsp; development and design experience. I like taking walks at night🚶🏻‍♂️,&nbsp;  gaming&nbsp🎮&nbsp;  and listening to music&nbsp🎧&nbsp;  on my freetimes. And also I'm a 🚗 petrolhead.
 <br>
 <br>
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools I Use:</h3>
 
 <p align="center">
-  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" alt="objectivec" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg" alt="swift" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-plain.svg" alt="xcode" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://www.travis-ci.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain-wordmark.svg" alt="travisci" width="40" height="40"/> </a>
 </p>
 
 <br>
