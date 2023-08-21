@@ -9,7 +9,7 @@
 </p>
 
 <br>
-Hello, I'm Yiğit, an iOS Developer&nbsp🧑🏻‍💻&nbsp that currently works at DonanımHaber.com, and a college student&nbsp👨🏻‍🎓.&nbsp; Currently, I'm studying BSc. of Computer Engineering&nbsp🖥️&nbsp; at Kocaeli University, and I have about a year of native iOS application📱&nbsp; development and design experience. I like taking walks at night🚶🏻‍♂️,&nbsp;  gaming&nbsp🎮&nbsp;  and listening to music&nbsp🎧&nbsp;  on my freetimes. And also I'm a 🚗 petrolhead.
+Hello, I'm Yiğit, an iOS Developer&nbsp🧑🏻‍💻&nbsp that currently works at Loodos, and a college student&nbsp👨🏻‍🎓.&nbsp; Currently, I'm studying BSc. of Computer Engineering&nbsp🖥️&nbsp; at Kocaeli University, and I have about a year of native iOS application📱&nbsp; development and design experience. I like taking walks at night🚶🏻‍♂️,&nbsp;  gaming&nbsp🎮&nbsp;  and listening to music&nbsp🎧&nbsp;  on my freetimes. And also I'm a 🚗 petrolhead.
 <br>
 <br>
 <br>
