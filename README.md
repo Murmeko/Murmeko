@@ -29,7 +29,7 @@ Hello, I'm Yiğit, an iOS Developer&nbsp🧑🏻‍💻&nbsp that currently work
 <br>
 
 <p align="center">
-  <img src="https://readme-stats-murmeko.vercel.app/api?username=Murmeko&show_icons=true&locale=en&theme=dark" alt="murmeko" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Murmeko&show_icons=true&locale=en&theme=dark" alt="murmeko" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Hello, I'm Yiğit, an iOS Developer&nbsp🧑🏻‍💻&nbsp that currently work
 <br>
 
 <p align="center">
-  <img src="https://readme-stats-murmeko.vercel.app/api/top-langs?username=murmeko&show_icons=true&locale=en&theme=dark&layout=compact" alt="murmeko" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murmeko&show_icons=true&locale=en&theme=dark&layout=compact" alt="murmeko" />
 </p>
 
 <br>
